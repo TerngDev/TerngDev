@@ -1,4 +1,4 @@
-h# Rakthai Thanarom (Terng)
+h#Rakthai Thanarom (Terng)
 **Full-stack Developer**
 
 1 year of experience in building web applications using JavaScript. Skilled in frontend and backend development, with a focus on creating responsive and user-friendly websites. Interested in developing websites for small businesses and continuously learning new technologies to enhance user experiences
